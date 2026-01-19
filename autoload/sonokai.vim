@@ -208,7 +208,7 @@ function! sonokai#get_palette(style, colors_override) "{{{
     let palette = {
           \ 'black':      ['#383830',   '237'],
           \ 'bg_dim':     ['#1c1c1c',   '232'],
-          \ 'bg0':        ['#222222',   '235'],
+          \ 'bg0':        ['#111111',   '235'],
           \ 'bg1':        ['#33353f',   '236'],
           \ 'bg2':        ['#363944',   '236'],
           \ 'bg3':        ['#3b3e48',   '237'],
